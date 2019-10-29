@@ -356,6 +356,13 @@ module.exports = [
     port: 11625,
     publicKey: "GBATJAZRLNDUIJZEHM3EDRDOT5BUNQ5V3AGEYDOQLHSQXRLYLMK4LXCL",
   },
+   {
+    id: "VIBELAND.io",
+    name: "VIBELAND.io",
+    host: "stellar.VIBELAND.io",
+    port: 11625,
+    publicKey: "GBNROZZLX23RP3URY5BUGLX35ZITKZURJCTL736ZRZ2GZMEJB4WXASA4",
+  },
   {
     id: "sonicwallet.com",
     name: "Sonic Wallet",
